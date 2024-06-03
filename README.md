@@ -1,9 +1,3 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device, initial-scale=1.0"></head><body><img src="https://i.pinimg.com/originals/71/b8/59/71b8597599e9f5d7fa269dfdfff73367.jpg" alt="coding"></body></html>
-
-<h1 align="center">Hi 👋, I'm Gift Mphuthi</h1>
-<h3 align="center">An aspiring Software developer from South Africa</h3>
-<img align="center" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
-
 - 🔭 I’m currently working on **Financial Management System**
 
 - 🌱 I’m currently learning **Java|Django|**
