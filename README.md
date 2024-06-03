@@ -1,24 +1,24 @@
-- 🔭 I’m currently working on **Financial Management System**
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device, initial-scale=1.0"></head><body><img src="https://i.pinimg.com/originals/71/b8/59/71b8597599e9f5d7fa269dfdfff73367.jpg" alt="coding"></body></html>
 
-- 🌱 I’m currently learning **Java|Django|**
+<h1 align="center">Gift Mphuthi</h1>
+<h3 align="center">An aspiring Software developer from South Africa</h3>
+<img align="center" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
-- 💬 Ask me about **Python**
 
-- 📫 How to reach me **mphuthigift764@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gift-mphuthi-4a6848254) 
 
-- ⚡ Fun fact **Software developers have a knack for blending curiosity with playfulness in their learning process, often exploring new technologies through coding challenges, hackathons, and friendly competitions. And that includes me ;)**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=giftiem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=giftiem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=giftiem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gift mphuthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gift mphuthi" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=giftiem&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giftiem&show_icons=true&locale=en&layout=compact" alt="giftiem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giftiem&show_icons=true&locale=en" alt="giftiem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giftiem&" alt="giftiem" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
