@@ -11,9 +11,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gift-mphuthi-4a6848254) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mphuthigift764@gmail.com)
 
+# 📊 Streak Badge:
+![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true)
+
 
 # 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=giftiem&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=giftiem&theme=dark&hide_border=true)
 
