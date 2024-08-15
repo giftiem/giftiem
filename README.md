@@ -13,6 +13,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=giftiem&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=giftiem&theme=dark&hide_border=true)
 
 ### ✍️ Random Dev Quote
