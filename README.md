@@ -27,6 +27,15 @@
 - BSc Computer Science — IU International University, expected 2026, scholarship recipient
 
 ---
+## Projects
+
+- **Harvest of Hope** — Donor-charity matching platform with AI-driven regional-need analysis. 
+   International hackathon winner, Devpost (jan 2025). [Link to DevPost page](https://devpost.com/software/harvest-of-hope-fyijsn)
+- **[Nerdma project]** — AI customer support agent handling voice and 
+  text with analytics dashboards. Top 2 finalist, Nerdma Hack-AI-thon 
+  (Aug 2024). 
+
+---
 
 ## Core Focus
 
