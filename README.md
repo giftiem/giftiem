@@ -28,7 +28,7 @@
 
 ---
 ## Projects
-
+- **GitHub-MCP-server** — A small GitHub MCP (Model Context Protocol) server that exposes GitHub repositories, pull requests, and search as tools for AI assistants like        Claude. [Link to Repo](https://github.com/giftiem/github-mcp-explorer))
 - **Harvest of Hope** — Donor-charity matching platform with AI-driven regional-need analysis. 
    International hackathon winner, Devpost (jan 2025). [Link to DevPost page](https://devpost.com/software/harvest-of-hope-fyijsn)
 - **[Nerdma project]** — AI customer support agent handling voice and 
